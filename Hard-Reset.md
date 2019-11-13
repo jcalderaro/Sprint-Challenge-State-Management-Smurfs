@@ -1,2 +1,0 @@
-Performing Hard Reset
--
