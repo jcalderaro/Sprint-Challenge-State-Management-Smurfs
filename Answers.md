@@ -34,7 +34,7 @@
 
 1. What is your favorite state management system you've learned and this sprint? Please explain why!
 
-> I'm still kind of torn as tow hat qualifies as a state management system, as well as any potential other ones out there.
+> I'm still kind of torn as to what qualifies as a state management system, as well as any potential other ones out there.
 > However, I am partial to using React-Redux because I find it easier to understand and follow. 
 > The ability to keep states organized, especially in big projects, is something I think is super valued.
 
